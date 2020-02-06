@@ -21,5 +21,5 @@ namespace Methods
             Console.WriteLine("\n" + "Hello " + input + ", press any key to exit now."); // output
         }
 
-    } // end of program
+    } // end of program here
 }
